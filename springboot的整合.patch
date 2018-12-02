@@ -1,0 +1,2681 @@
+Index: .idea/libraries/Maven__com_alibaba_druid_1_1_12.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__com_alibaba_druid_1_1_12.xml	(date 1543738931351)
++++ .idea/libraries/Maven__com_alibaba_druid_1_1_12.xml	(date 1543738931351)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.alibaba:druid:1.1.12">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/druid/1.1.12/druid-1.1.12.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/druid/1.1.12/druid-1.1.12-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/druid/1.1.12/druid-1.1.12-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__io_lettuce_lettuce_core_5_1_3_RELEASE.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__io_lettuce_lettuce_core_5_1_3_RELEASE.xml	(date 1543745892753)
++++ .idea/libraries/Maven__io_lettuce_lettuce_core_5_1_3_RELEASE.xml	(date 1543745892753)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: io.lettuce:lettuce-core:5.1.3.RELEASE">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/lettuce/lettuce-core/5.1.3.RELEASE/lettuce-core-5.1.3.RELEASE.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/io/lettuce/lettuce-core/5.1.3.RELEASE/lettuce-core-5.1.3.RELEASE-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/lettuce/lettuce-core/5.1.3.RELEASE/lettuce-core-5.1.3.RELEASE-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__io_netty_netty_buffer_4_1_31_Final.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__io_netty_netty_buffer_4_1_31_Final.xml	(date 1543745892896)
++++ .idea/libraries/Maven__io_netty_netty_buffer_4_1_31_Final.xml	(date 1543745892896)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: io.netty:netty-buffer:4.1.31.Final">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-buffer/4.1.31.Final/netty-buffer-4.1.31.Final.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-buffer/4.1.31.Final/netty-buffer-4.1.31.Final-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-buffer/4.1.31.Final/netty-buffer-4.1.31.Final-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__io_netty_netty_codec_4_1_31_Final.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__io_netty_netty_codec_4_1_31_Final.xml	(date 1543745893045)
++++ .idea/libraries/Maven__io_netty_netty_codec_4_1_31_Final.xml	(date 1543745893045)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: io.netty:netty-codec:4.1.31.Final">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-codec/4.1.31.Final/netty-codec-4.1.31.Final.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-codec/4.1.31.Final/netty-codec-4.1.31.Final-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-codec/4.1.31.Final/netty-codec-4.1.31.Final-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__io_netty_netty_common_4_1_31_Final.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__io_netty_netty_common_4_1_31_Final.xml	(date 1543745893192)
++++ .idea/libraries/Maven__io_netty_netty_common_4_1_31_Final.xml	(date 1543745893192)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: io.netty:netty-common:4.1.31.Final">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-common/4.1.31.Final/netty-common-4.1.31.Final.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-common/4.1.31.Final/netty-common-4.1.31.Final-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-common/4.1.31.Final/netty-common-4.1.31.Final-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__io_netty_netty_handler_4_1_31_Final.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__io_netty_netty_handler_4_1_31_Final.xml	(date 1543745893334)
++++ .idea/libraries/Maven__io_netty_netty_handler_4_1_31_Final.xml	(date 1543745893334)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: io.netty:netty-handler:4.1.31.Final">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-handler/4.1.31.Final/netty-handler-4.1.31.Final.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-handler/4.1.31.Final/netty-handler-4.1.31.Final-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-handler/4.1.31.Final/netty-handler-4.1.31.Final-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__io_netty_netty_resolver_4_1_31_Final.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__io_netty_netty_resolver_4_1_31_Final.xml	(date 1543745893471)
++++ .idea/libraries/Maven__io_netty_netty_resolver_4_1_31_Final.xml	(date 1543745893471)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: io.netty:netty-resolver:4.1.31.Final">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-resolver/4.1.31.Final/netty-resolver-4.1.31.Final.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-resolver/4.1.31.Final/netty-resolver-4.1.31.Final-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-resolver/4.1.31.Final/netty-resolver-4.1.31.Final-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__io_netty_netty_transport_4_1_31_Final.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__io_netty_netty_transport_4_1_31_Final.xml	(date 1543745893641)
++++ .idea/libraries/Maven__io_netty_netty_transport_4_1_31_Final.xml	(date 1543745893641)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: io.netty:netty-transport:4.1.31.Final">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-transport/4.1.31.Final/netty-transport-4.1.31.Final.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-transport/4.1.31.Final/netty-transport-4.1.31.Final-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-transport/4.1.31.Final/netty-transport-4.1.31.Final-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__io_projectreactor_reactor_core_3_2_3_RELEASE.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__io_projectreactor_reactor_core_3_2_3_RELEASE.xml	(date 1543745893768)
++++ .idea/libraries/Maven__io_projectreactor_reactor_core_3_2_3_RELEASE.xml	(date 1543745893768)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: io.projectreactor:reactor-core:3.2.3.RELEASE">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.2.3.RELEASE/reactor-core-3.2.3.RELEASE.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.2.3.RELEASE/reactor-core-3.2.3.RELEASE-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.2.3.RELEASE/reactor-core-3.2.3.RELEASE-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml	(date 1543745893903)
++++ .idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml	(date 1543745893903)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.reactivestreams:reactive-streams:1.0.2">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_0_4_RELEASE.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_0_4_RELEASE.xml	(date 1543745894025)
++++ .idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_0_4_RELEASE.xml	(date 1543745894025)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.springframework.boot:spring-boot-starter-data-redis:2.0.4.RELEASE">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-redis/2.0.4.RELEASE/spring-boot-starter-data-redis-2.0.4.RELEASE.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-redis/2.0.4.RELEASE/spring-boot-starter-data-redis-2.0.4.RELEASE-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-redis/2.0.4.RELEASE/spring-boot-starter-data-redis-2.0.4.RELEASE-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_3_RELEASE.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_3_RELEASE.xml	(date 1543745894144)
++++ .idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_3_RELEASE.xml	(date 1543745894144)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.springframework.data:spring-data-commons:2.1.3.RELEASE">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.1.3.RELEASE/spring-data-commons-2.1.3.RELEASE.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.1.3.RELEASE/spring-data-commons-2.1.3.RELEASE-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.1.3.RELEASE/spring-data-commons-2.1.3.RELEASE-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_1_3_RELEASE.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_1_3_RELEASE.xml	(date 1543745894278)
++++ .idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_1_3_RELEASE.xml	(date 1543745894278)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.springframework.data:spring-data-keyvalue:2.1.3.RELEASE">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-keyvalue/2.1.3.RELEASE/spring-data-keyvalue-2.1.3.RELEASE.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-keyvalue/2.1.3.RELEASE/spring-data-keyvalue-2.1.3.RELEASE-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-keyvalue/2.1.3.RELEASE/spring-data-keyvalue-2.1.3.RELEASE-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_springframework_data_spring_data_redis_2_1_3_RELEASE.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_springframework_data_spring_data_redis_2_1_3_RELEASE.xml	(date 1543745894398)
++++ .idea/libraries/Maven__org_springframework_data_spring_data_redis_2_1_3_RELEASE.xml	(date 1543745894398)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.springframework.data:spring-data-redis:2.1.3.RELEASE">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.3.RELEASE/spring-data-redis-2.1.3.RELEASE.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.3.RELEASE/spring-data-redis-2.1.3.RELEASE-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.3.RELEASE/spring-data-redis-2.1.3.RELEASE-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_springframework_spring_context_support_5_1_3_RELEASE.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_springframework_spring_context_support_5_1_3_RELEASE.xml	(date 1543745894518)
++++ .idea/libraries/Maven__org_springframework_spring_context_support_5_1_3_RELEASE.xml	(date 1543745894518)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.springframework:spring-context-support:5.1.3.RELEASE">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/5.1.3.RELEASE/spring-context-support-5.1.3.RELEASE.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/5.1.3.RELEASE/spring-context-support-5.1.3.RELEASE-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/5.1.3.RELEASE/spring-context-support-5.1.3.RELEASE-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_springframework_spring_oxm_5_1_3_RELEASE.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_springframework_spring_oxm_5_1_3_RELEASE.xml	(date 1543745894637)
++++ .idea/libraries/Maven__org_springframework_spring_oxm_5_1_3_RELEASE.xml	(date 1543745894637)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.springframework:spring-oxm:5.1.3.RELEASE">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-oxm/5.1.3.RELEASE/spring-oxm-5.1.3.RELEASE.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-oxm/5.1.3.RELEASE/spring-oxm-5.1.3.RELEASE-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-oxm/5.1.3.RELEASE/spring-oxm-5.1.3.RELEASE-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml	(revision 5)
++++ .idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml	(date 1543737556519)
+@@ -1,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.unbescape:unbescape:1.1.6.RELEASE">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/unbescape/unbescape/1.1.6.RELEASE/unbescape-1.1.6.RELEASE.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/unbescape/unbescape/1.1.6.RELEASE/unbescape-1.1.6.RELEASE-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/unbescape/unbescape/1.1.6.RELEASE/unbescape-1.1.6.RELEASE-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 6)
++++ .idea/workspace.xml	(date 1543753581437)
+@@ -2,26 +2,47 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="a4022ff6-e651-4284-9f51-d99ff5aa9f4f" name="Default" comment="">
+-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_0_2_23.xml" />
+-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" />
+-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" />
+-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" />
+-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_2.xml" />
+-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_2.xml" />
+-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_1_RELEASE.xml" />
+-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_3_RELEASE.xml" />
+-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_3_RELEASE.xml" />
+-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/service" />
+-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/service/UserService.java" />
+-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/service/UserServiceImp.java" />
+-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/web" />
+-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/web/UserController.java" />
+-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_unknown.xml" afterPath="" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_12.xml" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_1_3_RELEASE.xml" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_31_Final.xml" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_31_Final.xml" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_31_Final.xml" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_31_Final.xml" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_31_Final.xml" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_31_Final.xml" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_2_3_RELEASE.xml" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_0_4_RELEASE.xml" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_3_RELEASE.xml" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_1_3_RELEASE.xml" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_1_3_RELEASE.xml" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_3_RELEASE.xml" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_1_3_RELEASE.xml" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/springdemo/bean" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/springdemo/bean/User.java" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/springdemo/dao" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/springdemo/dao/UserDao.java" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/springdemo/util" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/springdemo/util/RedisConfig.java" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/springdemo/util/RedisService.java" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/springdemo/util/RedisUtil.java" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/springdemo/util/UserModel.java" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/springdemo/util/UserRedisServiceImpl.java" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/springdemo/web" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/springdemo/web/UserController.java" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/list.html" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/users" />
++      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/users/list.html" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+       <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+       <change beforePath="$PROJECT_DIR$/springdemo.iml" afterPath="$PROJECT_DIR$/springdemo.iml" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/dao/UserDao.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/dao/UserDao.java" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/service" afterPath="$PROJECT_DIR$/src/main/java/com/example/springdemo/service" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/service/UserService.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/springdemo/service/UserService.java" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/service/UserServiceImp.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/springdemo/service/UserServiceImp.java" />
+       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springdemo/SpringdemoApplication.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/springdemo/SpringdemoApplication.java" />
++      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" />
++      <change beforePath="$PROJECT_DIR$/src/main/resources/mappers/UserDao.xml" afterPath="$PROJECT_DIR$/src/main/resources/mappers/UserDao.xml" />
+     </list>
+     <ignored path="$PROJECT_DIR$/out/" />
+     <ignored path="$PROJECT_DIR$/target/" />
+@@ -46,92 +67,124 @@
+   </component>
+   <component name="FileEditorManager">
+     <leaf>
+-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/pom.xml">
++      <file leaf-file-name="SpringdemoApplication.java" pinned="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springdemo/SpringdemoApplication.java">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="133">
+-              <caret line="54" column="42" lean-forward="true" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
+-              <folding />
++            <state relative-caret-position="111">
++              <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
++              <folding>
++                <element signature="e#443#444#0" expanded="true" />
++                <element signature="e#506#507#0" expanded="true" />
++              </folding>
+             </state>
+           </provider>
+         </entry>
+       </file>
+-      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/service/UserService.java">
++      <file leaf-file-name="list.html" pinned="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/users/list.html">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="171">
+-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
++            <state relative-caret-position="152">
++              <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+               <folding>
+-                <element signature="imports" expanded="true" />
++                <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+               </folding>
+             </state>
+           </provider>
+         </entry>
+       </file>
+-      <file leaf-file-name="UserServiceImp.java" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/service/UserServiceImp.java">
++      <file leaf-file-name="RedisConfig.java" pinned="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springdemo/util/RedisConfig.java">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="289">
+-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
++            <state relative-caret-position="101">
++              <caret line="84" column="21" lean-forward="false" selection-start-line="84" selection-start-column="21" selection-end-line="84" selection-end-column="21" />
+               <folding>
+                 <element signature="imports" expanded="true" />
+-                <element signature="e#395#396#0" expanded="true" />
+-                <element signature="e#435#436#0" expanded="true" />
+               </folding>
+             </state>
+           </provider>
+         </entry>
+       </file>
+-      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/web/UserController.java">
++      <file leaf-file-name="RedisService.java" pinned="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springdemo/util/RedisService.java">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="123">
+-              <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+-              <folding>
+-                <element signature="imports" expanded="true" />
+-              </folding>
++            <state relative-caret-position="133">
++              <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
++              <folding />
+             </state>
+           </provider>
+         </entry>
+       </file>
+-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
++      <file leaf-file-name="UserRedisServiceImpl.java" pinned="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springdemo/util/UserRedisServiceImpl.java">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="0">
+-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
++            <state relative-caret-position="133">
++              <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+               <folding />
+             </state>
+           </provider>
+         </entry>
+       </file>
+-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
++      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springdemo/bean/User.java">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="228">
+-              <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
++            <state relative-caret-position="190">
++              <caret line="10" column="25" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+               <folding />
+             </state>
+           </provider>
+         </entry>
+       </file>
+-      <file leaf-file-name="SpringdemoApplication.java" pinned="false" current-in-tab="true">
+-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springdemo/SpringdemoApplication.java">
++      <file leaf-file-name="UserModel.java" pinned="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springdemo/util/UserModel.java">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="209">
+-              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
++            <state relative-caret-position="38">
++              <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+               <folding>
+-                <element signature="e#354#355#0" expanded="true" />
+-                <element signature="e#417#418#0" expanded="true" />
++                <element signature="imports" expanded="true" />
++                <element signature="e#928#929#0" expanded="true" />
++                <element signature="e#964#965#0" expanded="true" />
++                <element signature="e#1010#1011#0" expanded="true" />
++                <element signature="e#1052#1053#0" expanded="true" />
++                <element signature="e#1088#1089#0" expanded="true" />
++                <element signature="e#1124#1125#0" expanded="true" />
++                <element signature="e#1170#1171#0" expanded="true" />
++                <element signature="e#1212#1213#0" expanded="true" />
++                <element signature="e#1246#1247#0" expanded="true" />
++                <element signature="e#1280#1281#0" expanded="true" />
++                <element signature="e#1322#1323#0" expanded="true" />
++                <element signature="e#1360#1361#0" expanded="true" />
++                <element signature="e#1399#1400#0" expanded="true" />
++                <element signature="e#1438#1439#0" expanded="true" />
++                <element signature="e#1490#1491#0" expanded="true" />
++                <element signature="e#1538#1539#0" expanded="true" />
++                <element signature="e#1582#1583#0" expanded="true" />
++                <element signature="e#1626#1627#0" expanded="true" />
++                <element signature="e#1688#1689#0" expanded="true" />
++                <element signature="e#1746#1747#0" expanded="true" />
++                <element signature="e#1790#1791#0" expanded="true" />
++                <element signature="e#1834#1835#0" expanded="true" />
++                <element signature="e#1896#1897#0" expanded="true" />
++                <element signature="e#1954#1955#0" expanded="true" />
++                <element signature="e#1989#1990#0" expanded="true" />
++                <element signature="e#2024#2025#0" expanded="true" />
++                <element signature="e#2068#2069#0" expanded="true" />
++                <element signature="e#2108#2109#0" expanded="true" />
++                <element signature="e#2141#2142#0" expanded="true" />
++                <element signature="e#2174#2175#0" expanded="true" />
++                <element signature="e#2917#2918#0" expanded="true" />
++                <element signature="e#2951#2952#0" expanded="true" />
++                <element signature="e#2993#2994#0" expanded="true" />
++                <element signature="e#3026#3027#0" expanded="true" />
+               </folding>
+             </state>
+           </provider>
+         </entry>
+       </file>
+-      <file leaf-file-name="UserDao.java" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/dao/UserDao.java">
++      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="true">
++        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springdemo/web/UserController.java">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="114">
+-              <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="25" />
++            <state relative-caret-position="150">
++              <caret line="50" column="14" lean-forward="true" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+               <folding>
+                 <element signature="imports" expanded="true" />
+               </folding>
+@@ -139,11 +192,23 @@
+           </provider>
+         </entry>
+       </file>
+-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/bean/User.java">
++      <file leaf-file-name="UserDao.xml" pinned="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/src/main/resources/mappers/UserDao.xml">
++          <provider selected="true" editor-type-id="text-editor">
++            <state relative-caret-position="133">
++              <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
++              <folding>
++                <marker date="1543741842319" expanded="true" signature="265:287" ph="select * fro... sys_user" />
++              </folding>
++            </state>
++          </provider>
++        </entry>
++      </file>
++      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="479">
+-              <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
++            <state relative-caret-position="190">
++              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+               <folding />
+             </state>
+           </provider>
+@@ -154,9 +219,18 @@
+   <component name="FileTemplateManagerImpl">
+     <option name="RECENT_TEMPLATES">
+       <list>
++        <option value="HTML File" />
+         <option value="Class" />
+       </list>
+     </option>
++  </component>
++  <component name="FindInProjectRecents">
++    <findStrings>
++      <find>Integer''</find>
++    </findStrings>
++    <replaceStrings>
++      <replace>String</replace>
++    </replaceStrings>
+   </component>
+   <component name="GradleLocalSettings">
+     <option name="externalProjectsViewState">
+@@ -167,13 +241,23 @@
+     <option name="CHANGED_PATHS">
+       <list>
+         <option value="$PROJECT_DIR$/src/main/java/com/example/bean/User.java" />
+-        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
++        <option value="$PROJECT_DIR$/src/main/java/com/example/dao/UserDao.java" />
++        <option value="$PROJECT_DIR$/src/main/java/com/example/service/UserServiceImp.java" />
+         <option value="$PROJECT_DIR$/src/main/java/com/example/service/UserService.java" />
+-        <option value="$PROJECT_DIR$/src/main/java/com/example/service/UserServiceImp.java" />
++        <option value="$PROJECT_DIR$/src/main/java/com/example/web/UserController.java" />
++        <option value="$PROJECT_DIR$/src/main/java/com/example/springdemo/bean/User.java" />
++        <option value="$PROJECT_DIR$/src/main/resources/mappers/UserDao.xml" />
++        <option value="$PROJECT_DIR$/src/main/java/com/example/springdemo/dao/UserDao.java" />
+         <option value="$PROJECT_DIR$/src/main/java/com/example/springdemo/SpringdemoApplication.java" />
+-        <option value="$PROJECT_DIR$/src/main/java/com/example/dao/UserDao.java" />
+-        <option value="$PROJECT_DIR$/src/main/java/com/example/web/UserController.java" />
++        <option value="$PROJECT_DIR$/src/main/resources/templates/users/list.html" />
+         <option value="$PROJECT_DIR$/pom.xml" />
++        <option value="$PROJECT_DIR$/src/main/java/com/example/springdemo/util/RedisConfig.java" />
++        <option value="$PROJECT_DIR$/src/main/java/com/example/springdemo/util/RedisUtil.java" />
++        <option value="$PROJECT_DIR$/src/main/java/com/example/springdemo/util/RedisService.java" />
++        <option value="$PROJECT_DIR$/src/main/java/com/example/springdemo/util/UserRedisServiceImpl.java" />
++        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
++        <option value="$PROJECT_DIR$/src/main/java/com/example/springdemo/util/UserModel.java" />
++        <option value="$PROJECT_DIR$/src/main/java/com/example/springdemo/web/UserController.java" />
+       </list>
+     </option>
+   </component>
+@@ -202,14 +286,21 @@
+           <item name="springdemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+         </path>
++        <path>
++          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
++          <item name="springdemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
++          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
++          <item name="org.mybatis.spring.boot:mybatis-spring-boot-starter:1.3.2" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
++        </path>
+       </expand>
+       <select />
+     </treeState>
+   </component>
+   <component name="ProjectFrameBounds" extendedState="6">
+-    <option name="x" value="15" />
+-    <option name="width" value="1302" />
+-    <option name="height" value="771" />
++    <option name="x" value="-8" />
++    <option name="y" value="-8" />
++    <option name="width" value="1187" />
++    <option name="height" value="675" />
+   </component>
+   <component name="ProjectInspectionProfilesVisibleTreeState">
+     <entry key="Project Default">
+@@ -229,6 +320,7 @@
+   </component>
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+     <ConfirmationsSetting value="2" id="Add" />
++    <ConfirmationsSetting value="1" id="Remove" />
+   </component>
+   <component name="ProjectView">
+     <navigator currentView="ProjectPane" proportions="" version="1">
+@@ -278,7 +370,7 @@
+               <item name="src" type="462c0819:PsiDirectoryNode" />
+               <item name="main" type="462c0819:PsiDirectoryNode" />
+               <item name="java" type="462c0819:PsiDirectoryNode" />
+-              <item name="example" type="462c0819:PsiDirectoryNode" />
++              <item name="springdemo" type="462c0819:PsiDirectoryNode" />
+             </path>
+             <path>
+               <item name="springdemo" type="b2602c69:ProjectViewProjectNode" />
+@@ -286,7 +378,7 @@
+               <item name="src" type="462c0819:PsiDirectoryNode" />
+               <item name="main" type="462c0819:PsiDirectoryNode" />
+               <item name="java" type="462c0819:PsiDirectoryNode" />
+-              <item name="example" type="462c0819:PsiDirectoryNode" />
++              <item name="springdemo" type="462c0819:PsiDirectoryNode" />
+               <item name="bean" type="462c0819:PsiDirectoryNode" />
+             </path>
+             <path>
+@@ -295,7 +387,7 @@
+               <item name="src" type="462c0819:PsiDirectoryNode" />
+               <item name="main" type="462c0819:PsiDirectoryNode" />
+               <item name="java" type="462c0819:PsiDirectoryNode" />
+-              <item name="example" type="462c0819:PsiDirectoryNode" />
++              <item name="springdemo" type="462c0819:PsiDirectoryNode" />
+               <item name="dao" type="462c0819:PsiDirectoryNode" />
+             </path>
+             <path>
+@@ -304,7 +396,7 @@
+               <item name="src" type="462c0819:PsiDirectoryNode" />
+               <item name="main" type="462c0819:PsiDirectoryNode" />
+               <item name="java" type="462c0819:PsiDirectoryNode" />
+-              <item name="example" type="462c0819:PsiDirectoryNode" />
++              <item name="springdemo" type="462c0819:PsiDirectoryNode" />
+               <item name="service" type="462c0819:PsiDirectoryNode" />
+             </path>
+             <path>
+@@ -313,8 +405,17 @@
+               <item name="src" type="462c0819:PsiDirectoryNode" />
+               <item name="main" type="462c0819:PsiDirectoryNode" />
+               <item name="java" type="462c0819:PsiDirectoryNode" />
+-              <item name="example" type="462c0819:PsiDirectoryNode" />
+               <item name="springdemo" type="462c0819:PsiDirectoryNode" />
++              <item name="util" type="462c0819:PsiDirectoryNode" />
++            </path>
++            <path>
++              <item name="springdemo" type="b2602c69:ProjectViewProjectNode" />
++              <item name="springdemo" type="462c0819:PsiDirectoryNode" />
++              <item name="src" type="462c0819:PsiDirectoryNode" />
++              <item name="main" type="462c0819:PsiDirectoryNode" />
++              <item name="java" type="462c0819:PsiDirectoryNode" />
++              <item name="springdemo" type="462c0819:PsiDirectoryNode" />
++              <item name="web" type="462c0819:PsiDirectoryNode" />
+             </path>
+             <path>
+               <item name="springdemo" type="b2602c69:ProjectViewProjectNode" />
+@@ -331,6 +432,10 @@
+               <item name="resources" type="462c0819:PsiDirectoryNode" />
+               <item name="mappers" type="462c0819:PsiDirectoryNode" />
+             </path>
++            <path>
++              <item name="springdemo" type="b2602c69:ProjectViewProjectNode" />
++              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
++            </path>
+           </expand>
+           <select />
+         </subPane>
+@@ -347,14 +452,28 @@
+     <property name="last_opened_file_path" value="$PROJECT_DIR$/../comzzpanel" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
+     <property name="aspect.path.notification.shown" value="true" />
++    <property name="DefaultHtmlFileTemplate" value="HTML File" />
++    <property name="RequestMappingsPanelWidth0" value="75" />
++    <property name="RequestMappingsPanelOrder0" value="0" />
++    <property name="RequestMappingsPanelWidth1" value="75" />
++    <property name="RequestMappingsPanelOrder1" value="1" />
++    <property name="RequestMappingsPanelWidth2" value="75" />
++    <property name="RequestMappingsPanelOrder2" value="2" />
+   </component>
+   <component name="RecentsManager">
++    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
++      <recent name="com.example.springdemo" />
++    </key>
+     <key name="CopyClassDialog.RECENTS_KEY">
+       <recent name="com.example.bean" />
+       <recent name="com.example.dao" />
+     </key>
+     <key name="CopyFile.RECENT_KEYS">
+-      <recent name="G:\ijWork\springdemo\src\main\resources\mappers" />
++      <recent name="G:\ijWork\springdemo\src\main\java\com\example\springdemo\util" />
++      <recent name="G:\ijWork\springdemo\src\main\resources\static" />
++      <recent name="G:\ijWork\springdemo\src\main\java\com\example\springdemo\web" />
++      <recent name="G:\ijWork\springdemo\src\main\java\com\example\springdemo\dao" />
++      <recent name="G:\ijWork\springdemo\src\main\java\com\example\springdemo\bean" />
+     </key>
+   </component>
+   <component name="RunDashboard">
+@@ -493,7 +612,7 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1543715773608</updated>
+-      <workItem from="1543715782199" duration="8388000" />
++      <workItem from="1543715782199" duration="29091000" />
+     </task>
+     <task id="LOCAL-00001" summary="springboot的整合">
+       <created>1543723132120</created>
+@@ -502,38 +621,55 @@
+       <option name="project" value="LOCAL" />
+       <updated>1543723132120</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="springboot的整合">
++      <created>1543725305116</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1543725305116</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TimeTrackingManager">
+-    <option name="totallyTimeSpent" value="8388000" />
++    <option name="totallyTimeSpent" value="29091000" />
++  </component>
++  <component name="TodoView">
++    <todo-panel id="selected-file">
++      <is-autoscroll-to-source value="true" />
++    </todo-panel>
++    <todo-panel id="all">
++      <are-packages-shown value="true" />
++      <is-autoscroll-to-source value="true" />
++    </todo-panel>
+   </component>
+   <component name="ToolWindowManager">
+     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+     <layout>
+       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.50397277" order="7" side_tool="true" content_ui="tabs" />
+-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
++      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16490166" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
++      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.577044" sideWeight="0.49602723" order="3" side_tool="false" content_ui="tabs" />
+-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19694397" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
++      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46153846" sideWeight="0.49602723" order="3" side_tool="false" content_ui="tabs" />
++      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
++      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19694397" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
++      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41595924" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22239032" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
++      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21785174" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2473525" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
++      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+@@ -542,7 +678,6 @@
+       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.05195783" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+     </layout>
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -556,107 +691,215 @@
+     <option name="LAST_COMMIT_MESSAGE" value="springboot的整合" />
+   </component>
+   <component name="XDebuggerManager">
+-    <breakpoint-manager />
++    <breakpoint-manager>
++      <option name="time" value="2" />
++    </breakpoint-manager>
+     <watches-manager />
++  </component>
++  <component name="antWorkspaceConfiguration">
++    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
++    <option name="FILTER_TARGETS" value="false" />
+   </component>
+   <component name="editorHistoryManager">
+-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/bean/User.java">
++    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="479">
+-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
++        <state relative-caret-position="0">
++          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+           <folding />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/resources/mappers/UserDao.xml">
++    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springdemo/service/UserServiceImp.java">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="171">
+-          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
++        <state relative-caret-position="115">
++          <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+           <folding>
+-            <marker date="1541485039150" expanded="true" signature="2537:2638" ph="select * fro... sys_user" />
+-            <marker date="1541485039150" expanded="true" signature="2717:2739" ph="select * fro... sys_user" />
+-            <marker date="1541485039150" expanded="true" signature="2836:2867" ph="select count... sys_user" />
+-            <marker date="1541485039150" expanded="true" signature="2982:3019" ph="select * fro... sys_user" />
+-            <marker date="1541485039150" expanded="true" signature="3065:3298" ph="insert into sys_user... " />
+-            <marker date="1541485039150" expanded="true" signature="3346:5033" ph="update sys_user... " />
+-            <marker date="1541485039150" expanded="true" signature="5082:5117" ph="delete from sys_user... " />
++            <element signature="imports" expanded="false" />
++            <element signature="e#428#429#0" expanded="false" />
++            <element signature="e#468#469#0" expanded="false" />
++            <element signature="e#503#504#0" expanded="false" />
++            <element signature="e#533#534#0" expanded="false" />
++            <element signature="e#580#581#0" expanded="false" />
++            <element signature="e#618#619#0" expanded="false" />
+           </folding>
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/dao/UserDao.java">
++    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springdemo/service/UserService.java">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="114">
+-          <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="25" />
++        <state relative-caret-position="38">
++          <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
++          <folding />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/main/resources/static/list.html">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="0">
++          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
++          <folding />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springdemo/dao/UserDao.java">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="133">
++          <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+           <folding>
+-            <element signature="imports" expanded="true" />
++            <element signature="imports" expanded="false" />
++          </folding>
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springdemo/SpringdemoApplication.java">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="111">
++          <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
++          <folding>
++            <element signature="e#443#444#0" expanded="true" />
++            <element signature="e#506#507#0" expanded="true" />
+           </folding>
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/pom.xml">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="133">
+-          <caret line="54" column="42" lean-forward="true" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
++        <state relative-caret-position="137">
++          <caret line="35" column="24" lean-forward="false" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+           <folding />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
++    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springdemo/util/RedisConfig.java">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="228">
+-          <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+-          <folding />
++        <state relative-caret-position="101">
++          <caret line="84" column="21" lean-forward="false" selection-start-line="84" selection-start-column="21" selection-end-line="84" selection-end-column="21" />
++          <folding>
++            <element signature="imports" expanded="true" />
++          </folding>
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
++    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springdemo/bean/User.java">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="0">
+-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
++        <state relative-caret-position="190">
++          <caret line="10" column="25" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+           <folding />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/web/UserController.java">
++    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/users/list.html">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="123">
+-          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
++        <state relative-caret-position="152">
++          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+           <folding>
+-            <element signature="imports" expanded="true" />
++            <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+           </folding>
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/service/UserServiceImp.java">
++    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springdemo/util/RedisUtil.java">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="289">
+-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
++        <state relative-caret-position="266">
++          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+           <folding>
+-            <element signature="imports" expanded="true" />
+-            <element signature="e#395#396#0" expanded="true" />
+-            <element signature="e#435#436#0" expanded="true" />
++            <element signature="imports" expanded="false" />
++          </folding>
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springdemo/util/UserRedisServiceImpl.java">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="133">
++          <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
++          <folding />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springdemo/util/RedisService.java">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="133">
++          <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
++          <folding />
++        </state>
++      </provider>
++    </entry>
++    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.13/tomcat-embed-core-9.0.13.jar!/org/apache/catalina/connector/CoyoteAdapter.class">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="-71">
++          <caret line="350" column="42" lean-forward="true" selection-start-line="350" selection-start-column="42" selection-end-line="350" selection-end-column="42" />
++          <folding />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/main/resources/mappers/UserDao.xml">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="133">
++          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
++          <folding>
++            <marker date="1543741842319" expanded="true" signature="265:287" ph="select * fro... sys_user" />
+           </folding>
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/service/UserService.java">
++    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="190">
++          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
++          <folding />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springdemo/util/UserModel.java">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="171">
+-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
++        <state relative-caret-position="38">
++          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+           <folding>
+             <element signature="imports" expanded="true" />
++            <element signature="e#928#929#0" expanded="true" />
++            <element signature="e#964#965#0" expanded="true" />
++            <element signature="e#1010#1011#0" expanded="true" />
++            <element signature="e#1052#1053#0" expanded="true" />
++            <element signature="e#1088#1089#0" expanded="true" />
++            <element signature="e#1124#1125#0" expanded="true" />
++            <element signature="e#1170#1171#0" expanded="true" />
++            <element signature="e#1212#1213#0" expanded="true" />
++            <element signature="e#1246#1247#0" expanded="true" />
++            <element signature="e#1280#1281#0" expanded="true" />
++            <element signature="e#1322#1323#0" expanded="true" />
++            <element signature="e#1360#1361#0" expanded="true" />
++            <element signature="e#1399#1400#0" expanded="true" />
++            <element signature="e#1438#1439#0" expanded="true" />
++            <element signature="e#1490#1491#0" expanded="true" />
++            <element signature="e#1538#1539#0" expanded="true" />
++            <element signature="e#1582#1583#0" expanded="true" />
++            <element signature="e#1626#1627#0" expanded="true" />
++            <element signature="e#1688#1689#0" expanded="true" />
++            <element signature="e#1746#1747#0" expanded="true" />
++            <element signature="e#1790#1791#0" expanded="true" />
++            <element signature="e#1834#1835#0" expanded="true" />
++            <element signature="e#1896#1897#0" expanded="true" />
++            <element signature="e#1954#1955#0" expanded="true" />
++            <element signature="e#1989#1990#0" expanded="true" />
++            <element signature="e#2024#2025#0" expanded="true" />
++            <element signature="e#2068#2069#0" expanded="true" />
++            <element signature="e#2108#2109#0" expanded="true" />
++            <element signature="e#2141#2142#0" expanded="true" />
++            <element signature="e#2174#2175#0" expanded="true" />
++            <element signature="e#2917#2918#0" expanded="true" />
++            <element signature="e#2951#2952#0" expanded="true" />
++            <element signature="e#2993#2994#0" expanded="true" />
++            <element signature="e#3026#3027#0" expanded="true" />
+           </folding>
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springdemo/SpringdemoApplication.java">
++    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/springdemo/web/UserController.java">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="209">
+-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
++        <state relative-caret-position="150">
++          <caret line="50" column="14" lean-forward="true" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+           <folding>
+-            <element signature="e#354#355#0" expanded="true" />
+-            <element signature="e#417#418#0" expanded="true" />
++            <element signature="imports" expanded="true" />
+           </folding>
+         </state>
+       </provider>
+Index: src/main/java/com/example/springdemo/bean/User.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/com/example/springdemo/bean/User.java	(date 1543741453129)
++++ src/main/java/com/example/springdemo/bean/User.java	(date 1543741453129)
+@@ -0,0 +1,114 @@
++package com.example.springdemo.bean;
++
++import java.sql.Date;
++
++public class User {
++    private Integer id;
++    private String account;
++    private String pass;
++    private String name;
++    private String head;
++    private String phone;
++    private String email;
++    private Integer sex;
++    private Date birthday;
++    private Date register_time;
++    private Integer department_id;
++    private String salt;
++
++    public String getPhone() {
++        return phone;
++    }
++
++    public void setPhone(String phone) {
++        this.phone = phone;
++    }
++
++    public String getEmail() {
++        return email;
++    }
++
++    public void setEmail(String email) {
++        this.email = email;
++    }
++
++    public Integer getSex() {
++        return sex;
++    }
++
++    public void setSex(Integer sex) {
++        this.sex = sex;
++    }
++
++    public Date getBirthday() {
++        return birthday;
++    }
++
++    public void setBirthday(Date birthday) {
++        this.birthday = birthday;
++    }
++
++    public Date getRegister_time() {
++        return register_time;
++    }
++
++    public void setRegister_time(Date register_time) {
++        this.register_time = register_time;
++    }
++
++    public Integer getDepartment_id() {
++        return department_id;
++    }
++
++    public void setDepartment_id(Integer department_id) {
++        this.department_id = department_id;
++    }
++
++    public String getSalt() {
++        return salt;
++    }
++
++    public void setSalt(String salt) {
++        this.salt = salt;
++    }
++
++    public Integer getId() {
++        return id;
++    }
++
++    public void setId(Integer id) {
++        this.id = id;
++    }
++
++    public String getAccount() {
++        return account;
++    }
++
++    public void setAccount(String account) {
++        this.account = account;
++    }
++
++    public String getPass() {
++        return pass;
++    }
++
++    public void setPass(String pass) {
++        this.pass = pass;
++    }
++
++    public String getName() {
++        return name;
++    }
++
++    public void setName(String name) {
++        this.name = name;
++    }
++
++    public String getHead() {
++        return head;
++    }
++
++    public void setHead(String head) {
++        this.head = head;
++    }
++}
+Index: src/main/java/com/example/springdemo/dao/UserDao.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/com/example/springdemo/dao/UserDao.java	(date 1543742078153)
++++ src/main/java/com/example/springdemo/dao/UserDao.java	(date 1543742078153)
+@@ -0,0 +1,11 @@
++package com.example.springdemo.dao;
++
++
++import com.example.springdemo.bean.User;
++import org.springframework.stereotype.Component;
++
++import java.util.List;
++@Component
++public interface UserDao {
++    List<User> findAll();
++}
+Index: src/main/java/com/example/service/UserService.java
+===================================================================
+--- src/main/java/com/example/service/UserService.java	(revision 6)
++++ src/main/java/com/example/springdemo/service/UserService.java	(date 1543741247544)
+@@ -1,9 +1,9 @@
+-package com.example.service;
++package com.example.springdemo.service;
+ 
+-import com.example.bean.User;
++import com.example.springdemo.bean.User;
+ 
+ import java.util.List;
+ 
+ public interface UserService {
+-    List<User> finsAll();
++    List<User> findAll();
+ }
+Index: src/main/java/com/example/service/UserServiceImp.java
+===================================================================
+--- src/main/java/com/example/service/UserServiceImp.java	(revision 6)
++++ src/main/java/com/example/springdemo/service/UserServiceImp.java	(date 1543741247570)
+@@ -1,7 +1,7 @@
+-package com.example.service;
++package com.example.springdemo.service;
+ 
+-import com.example.bean.User;
+-import com.example.dao.UserDao;
++import com.example.springdemo.bean.User;
++import com.example.springdemo.dao.UserDao;
+ import org.springframework.beans.factory.annotation.Autowired;
+ import org.springframework.stereotype.Service;
+ 
+@@ -13,8 +13,15 @@
+     private UserDao userDao;
+ 
+     @Override
+-    public List<User> finsAll() {
++    public List<User> findAll() {
+         return userDao.findAll();
+     }
+ 
++    public UserDao getUserDao() {
++        return userDao;
++    }
++
++    public void setUserDao(UserDao userDao) {
++        this.userDao = userDao;
++    }
+ }
+Index: src/main/java/com/example/springdemo/SpringdemoApplication.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/com/example/springdemo/SpringdemoApplication.java	(revision 6)
++++ src/main/java/com/example/springdemo/SpringdemoApplication.java	(date 1543742097971)
+@@ -3,9 +3,12 @@
+ import org.mybatis.spring.annotation.MapperScan;
+ import org.springframework.boot.SpringApplication;
+ import org.springframework.boot.autoconfigure.SpringBootApplication;
++import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
++
++
+ 
+ @SpringBootApplication
+-/*@MapperScan(basePackages = "com.example.dao")*/
++@MapperScan(basePackages = "com.example.springdemo.dao")
+ public class SpringdemoApplication {
+ 
+ 	public static void main(String[] args) {
+Index: src/main/java/com/example/springdemo/util/RedisConfig.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/com/example/springdemo/util/RedisConfig.java	(date 1543745892472)
++++ src/main/java/com/example/springdemo/util/RedisConfig.java	(date 1543745892472)
+@@ -0,0 +1,99 @@
++package com.example.springdemo.util;
++
++import org.springframework.beans.factory.annotation.Autowired;
++import org.springframework.context.annotation.Bean;
++import org.springframework.context.annotation.Configuration;
++import org.springframework.data.redis.connection.RedisConnectionFactory;
++import org.springframework.data.redis.core.*;
++import org.springframework.data.redis.serializer.JdkSerializationRedisSerializer;
++import org.springframework.data.redis.serializer.StringRedisSerializer;
++
++@Configuration
++public class RedisConfig {
++    /**
++     * 注入 RedisConnectionFactory
++     */
++    @Autowired
++    RedisConnectionFactory redisConnectionFactory;
++
++    /**
++     * 实例化 RedisTemplate 对象
++     *
++     * @return
++     */
++    @Bean
++    public RedisTemplate<String, Object> functionDomainRedisTemplate() {
++        RedisTemplate<String, Object> redisTemplate = new RedisTemplate<>();
++        initDomainRedisTemplate(redisTemplate, redisConnectionFactory);
++        return redisTemplate;
++    }
++
++    /**
++     * 设置数据存入 redis 的序列化方式
++     *
++     * @param redisTemplate
++     * @param factory
++     */
++    private void initDomainRedisTemplate(RedisTemplate<String, Object> redisTemplate, RedisConnectionFactory factory) {
++        redisTemplate.setKeySerializer(new StringRedisSerializer());
++        redisTemplate.setHashKeySerializer(new StringRedisSerializer());
++        redisTemplate.setHashValueSerializer(new JdkSerializationRedisSerializer());
++        redisTemplate.setValueSerializer(new JdkSerializationRedisSerializer());
++        redisTemplate.setConnectionFactory(factory);
++    }
++
++    /**
++     * 实例化 HashOperations 对象,可以使用 Hash 类型操作
++     *
++     * @param redisTemplate
++     * @return
++     */
++    @Bean
++    public HashOperations<String, String, Object> hashOperations(RedisTemplate<String, Object> redisTemplate) {
++        return redisTemplate.opsForHash();
++    }
++
++    /**
++     * 实例化 ValueOperations 对象,可以使用 String 操作
++     *
++     * @param redisTemplate
++     * @return
++     */
++    @Bean
++    public ValueOperations<String, Object> valueOperations(RedisTemplate<String, Object> redisTemplate) {
++        return redisTemplate.opsForValue();
++    }
++
++    /**
++     * 实例化 ListOperations 对象,可以使用 List 操作
++     *
++     * @param redisTemplate
++     * @return
++     */
++    @Bean
++    public ListOperations<String, Object> listOperations(RedisTemplate<String, Object> redisTemplate) {
++        return redisTemplate.opsForList();
++    }
++
++    /**
++     * 实例化 SetOperations 对象,可以使用 Set 操作
++     *
++     * @param redisTemplate
++     * @return
++     */
++    @Bean
++    public SetOperations<String, Object> setOperations(RedisTemplate<String, Object> redisTemplate) {
++        return redisTemplate.opsForSet();
++    }
++
++    /**
++     * 实例化 ZSetOperations 对象,可以使用 ZSet 操作
++     *
++     * @param redisTemplate
++     * @return
++     */
++    @Bean
++    public ZSetOperations<String, Object> zSetOperations(RedisTemplate<String, Object> redisTemplate) {
++        return redisTemplate.opsForZSet();
++    }
++}
+Index: src/main/java/com/example/springdemo/util/RedisService.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/com/example/springdemo/util/RedisService.java	(date 1543746946046)
++++ src/main/java/com/example/springdemo/util/RedisService.java	(date 1543746946046)
+@@ -0,0 +1,102 @@
++package com.example.springdemo.util;
++
++import org.springframework.beans.factory.annotation.Autowired;
++import org.springframework.data.redis.core.HashOperations;
++import org.springframework.data.redis.core.RedisTemplate;
++
++import javax.annotation.Resource;
++import java.util.List;
++import java.util.Set;
++import java.util.concurrent.TimeUnit;
++
++public abstract class RedisService<T> {
++    @Autowired
++    protected RedisTemplate<String, Object> redisTemplate;
++    @Resource       //Resource名字注入
++    protected HashOperations<String, String, T> hashOperations;
++
++    /**
++     * 存入redis中的key
++     *
++     * @return
++     */
++    protected abstract String getRedisKey();
++
++    /**
++     * 添加
++     *
++     * @param key    key
++     * @param doamin 对象
++     * @param expire 过期时间(单位:秒),传入 -1 时表示不设置过期时间
++     */
++    public void put(String key, T doamin, long expire) {
++        hashOperations.put(getRedisKey(), key, doamin);
++        if (expire != -1) {
++            redisTemplate.expire(getRedisKey(), expire, TimeUnit.SECONDS);
++        }
++    }
++
++    /**
++     * 删除
++     *
++     * @param key 传入key的名称
++     */
++    public void remove(String key) {
++        hashOperations.delete(getRedisKey(), key);
++    }
++
++    /**
++     * 查询
++     *
++     * @param key 查询的key
++     * @return
++     */
++    public T get(String key) {
++        return hashOperations.get(getRedisKey(), key);
++    }
++
++    /**
++     * 获取当前redis库下所有对象
++     *
++     * @return
++     */
++    public List<T> getAll() {
++        return hashOperations.values(getRedisKey());
++    }
++
++    /**
++     * 查询查询当前redis库下所有key
++     *
++     * @return
++     */
++    public Set<String> getKeys() {
++        return hashOperations.keys(getRedisKey());
++    }
++
++    /**
++     * 判断key是否存在redis中
++     *
++     * @param key 传入key的名称
++     * @return
++     */
++    public boolean isKeyExists(String key) {
++        return hashOperations.hasKey(getRedisKey(), key);
++    }
++
++    /**
++     * 查询当前key下缓存数量
++     *
++     * @return
++     */
++    public long count() {
++        return hashOperations.size(getRedisKey());
++    }
++
++    /**
++     * 清空redis
++     */
++    public void empty() {
++        Set<String> set = hashOperations.keys(getRedisKey());
++        set.stream().forEach(key -> hashOperations.delete(getRedisKey(), key));
++    }
++}
+Index: src/main/java/com/example/springdemo/util/RedisUtil.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/com/example/springdemo/util/RedisUtil.java	(date 1543746946020)
++++ src/main/java/com/example/springdemo/util/RedisUtil.java	(date 1543746946020)
+@@ -0,0 +1,521 @@
++package com.example.springdemo.util;
++
++import org.springframework.data.redis.core.RedisTemplate;
++import org.springframework.util.CollectionUtils;
++
++import java.util.List;
++import java.util.Map;
++import java.util.Set;
++import java.util.concurrent.TimeUnit;
++
++public class RedisUtil {
++    private RedisTemplate<String, Object> redisTemplate;
++
++    public void setRedisTemplate(RedisTemplate<String, Object> redisTemplate) {
++        this.redisTemplate = redisTemplate;
++    }
++    /**
++     * 指定缓存失效时间
++     * @param key 键
++     * @param time 时间(秒)
++     * @return
++     */
++    public boolean expire(String key,long time){
++        try {
++            if(time>0){
++                redisTemplate.expire(key, time, TimeUnit.SECONDS);
++            }
++            return true;
++        } catch (Exception e) {
++            e.printStackTrace();
++            return false;
++        }
++    }
++
++    /**
++     * 根据key 获取过期时间
++     * @param key 键 不能为null
++     * @return 时间(秒) 返回0代表为永久有效
++     */
++    public long getExpire(String key){
++        return redisTemplate.getExpire(key,TimeUnit.SECONDS);
++    }
++
++    /**
++     * 判断key是否存在
++     * @param key 键
++     * @return true 存在 false不存在
++     */
++    public boolean hasKey(String key){
++        try {
++            return redisTemplate.hasKey(key);
++        } catch (Exception e) {
++            e.printStackTrace();
++            return false;
++        }
++    }
++
++    /**
++     * 删除缓存
++     * @param key 可以传一个值 或多个
++     */
++    @SuppressWarnings("unchecked")
++    public void del(String ... key){
++        if(key!=null&&key.length>0){
++            if(key.length==1){
++                redisTemplate.delete(key[0]);
++            }else{
++                redisTemplate.delete(CollectionUtils.arrayToList(key));
++            }
++        }
++    }
++
++    //============================String=============================
++    /**
++     * 普通缓存获取
++     * @param key 键
++     * @return 值
++     */
++    public Object get(String key){
++        return key==null?null:redisTemplate.opsForValue().get(key);
++    }
++
++    /**
++     * 普通缓存放入
++     * @param key 键
++     * @param value 值
++     * @return true成功 false失败
++     */
++    public boolean set(String key,Object value) {
++        try {
++            redisTemplate.opsForValue().set(key, value);
++            return true;
++        } catch (Exception e) {
++            e.printStackTrace();
++            return false;
++        }
++
++    }
++
++    /**
++     * 普通缓存放入并设置时间
++     * @param key 键
++     * @param value 值
++     * @param time 时间(秒) time要大于0 如果time小于等于0 将设置无限期
++     * @return true成功 false 失败
++     */
++    public boolean set(String key,Object value,long time){
++        try {
++            if(time>0){
++                redisTemplate.opsForValue().set(key, value, time, TimeUnit.SECONDS);
++            }else{
++                set(key, value);
++            }
++            return true;
++        } catch (Exception e) {
++            e.printStackTrace();
++            return false;
++        }
++    }
++
++    /**
++     * 递增
++     * @param key 键
++     * @return
++     */
++    public long incr(String key, long delta){
++        if(delta<0){
++            throw new RuntimeException("递增因子必须大于0");
++        }
++        return redisTemplate.opsForValue().increment(key, delta);
++    }
++
++    /**
++     * 递减
++     * @param key 键
++     * @return
++     */
++    public long decr(String key, long delta){
++        if(delta<0){
++            throw new RuntimeException("递减因子必须大于0");
++        }
++        return redisTemplate.opsForValue().increment(key, -delta);
++    }
++
++    //================================Map=================================
++    /**
++     * HashGet
++     * @param key 键 不能为null
++     * @param item 项 不能为null
++     * @return 值
++     */
++    public Object hget(String key,String item){
++        return redisTemplate.opsForHash().get(key, item);
++    }
++
++    /**
++     * 获取hashKey对应的所有键值
++     * @param key 键
++     * @return 对应的多个键值
++     */
++    public Map<Object,Object> hmget(String key){
++        return redisTemplate.opsForHash().entries(key);
++    }
++
++    /**
++     * HashSet
++     * @param key 键
++     * @param map 对应多个键值
++     * @return true 成功 false 失败
++     */
++    public boolean hmset(String key, Map<String,Object> map){
++        try {
++            redisTemplate.opsForHash().putAll(key, map);
++            return true;
++        } catch (Exception e) {
++            e.printStackTrace();
++            return false;
++        }
++    }
++
++    /**
++     * HashSet 并设置时间
++     * @param key 键
++     * @param map 对应多个键值
++     * @param time 时间(秒)
++     * @return true成功 false失败
++     */
++    public boolean hmset(String key, Map<String,Object> map, long time){
++        try {
++            redisTemplate.opsForHash().putAll(key, map);
++            if(time>0){
++                expire(key, time);
++            }
++            return true;
++        } catch (Exception e) {
++            e.printStackTrace();
++            return false;
++        }
++    }
++
++    /**
++     * 向一张hash表中放入数据,如果不存在将创建
++     * @param key 键
++     * @param item 项
++     * @param value 值
++     * @return true 成功 false失败
++     */
++    public boolean hset(String key,String item,Object value) {
++        try {
++            redisTemplate.opsForHash().put(key, item, value);
++            return true;
++        } catch (Exception e) {
++            e.printStackTrace();
++            return false;
++        }
++    }
++
++    /**
++     * 向一张hash表中放入数据,如果不存在将创建
++     * @param key 键
++     * @param item 项
++     * @param value 值
++     * @param time 时间(秒)  注意:如果已存在的hash表有时间,这里将会替换原有的时间
++     * @return true 成功 false失败
++     */
++    public boolean hset(String key,String item,Object value,long time) {
++        try {
++            redisTemplate.opsForHash().put(key, item, value);
++            if(time>0){
++                expire(key, time);
++            }
++            return true;
++        } catch (Exception e) {
++            e.printStackTrace();
++            return false;
++        }
++    }
++
++    /**
++     * 删除hash表中的值
++     * @param key 键 不能为null
++     * @param item 项 可以使多个 不能为null
++     */
++    public void hdel(String key, Object... item){
++        redisTemplate.opsForHash().delete(key,item);
++    }
++
++    /**
++     * 判断hash表中是否有该项的值
++     * @param key 键 不能为null
++     * @param item 项 不能为null
++     * @return true 存在 false不存在
++     */
++    public boolean hHasKey(String key, String item){
++        return redisTemplate.opsForHash().hasKey(key, item);
++    }
++
++    /**
++     * hash递增 如果不存在,就会创建一个 并把新增后的值返回
++     * @param key 键
++     * @param item 项
++     * @param by 要增加几(大于0)
++     * @return
++     */
++    public double hincr(String key, String item,double by){
++        return redisTemplate.opsForHash().increment(key, item, by);
++    }
++
++    /**
++     * hash递减
++     * @param key 键
++     * @param item 项
++     * @param by 要减少记(小于0)
++     * @return
++     */
++    public double hdecr(String key, String item,double by){
++        return redisTemplate.opsForHash().increment(key, item,-by);
++    }
++
++    //============================set=============================
++    /**
++     * 根据key获取Set中的所有值
++     * @param key 键
++     * @return
++     */
++    public Set<Object> sGet(String key){
++        try {
++            return redisTemplate.opsForSet().members(key);
++        } catch (Exception e) {
++            e.printStackTrace();
++            return null;
++        }
++    }
++
++    /**
++     * 根据value从一个set中查询,是否存在
++     * @param key 键
++     * @param value 值
++     * @return true 存在 false不存在
++     */
++    public boolean sHasKey(String key,Object value){
++        try {
++            return redisTemplate.opsForSet().isMember(key, value);
++        } catch (Exception e) {
++            e.printStackTrace();
++            return false;
++        }
++    }
++
++    /**
++     * 将数据放入set缓存
++     * @param key 键
++     * @param values 值 可以是多个
++     * @return 成功个数
++     */
++    public long sSet(String key, Object...values) {
++        try {
++            return redisTemplate.opsForSet().add(key, values);
++        } catch (Exception e) {
++            e.printStackTrace();
++            return 0;
++        }
++    }
++
++    /**
++     * 将set数据放入缓存
++     * @param key 键
++     * @param time 时间(秒)
++     * @param values 值 可以是多个
++     * @return 成功个数
++     */
++    public long sSetAndTime(String key,long time,Object...values) {
++        try {
++            Long count = redisTemplate.opsForSet().add(key, values);
++            if(time>0) expire(key, time);
++            return count;
++        } catch (Exception e) {
++            e.printStackTrace();
++            return 0;
++        }
++    }
++
++    /**
++     * 获取set缓存的长度
++     * @param key 键
++     * @return
++     */
++    public long sGetSetSize(String key){
++        try {
++            return redisTemplate.opsForSet().size(key);
++        } catch (Exception e) {
++            e.printStackTrace();
++            return 0;
++        }
++    }
++
++    /**
++     * 移除值为value的
++     * @param key 键
++     * @param values 值 可以是多个
++     * @return 移除的个数
++     */
++    public long setRemove(String key, Object ...values) {
++        try {
++            Long count = redisTemplate.opsForSet().remove(key, values);
++            return count;
++        } catch (Exception e) {
++            e.printStackTrace();
++            return 0;
++        }
++    }
++    //===============================list=================================
++
++    /**
++     * 获取list缓存的内容
++     * @param key 键
++     * @param start 开始
++     * @param end 结束  0 到 -1代表所有值
++     * @return
++     */
++    public List<Object> lGet(String key, long start, long end){
++        try {
++            return redisTemplate.opsForList().range(key, start, end);
++        } catch (Exception e) {
++            e.printStackTrace();
++            return null;
++        }
++    }
++
++    /**
++     * 获取list缓存的长度
++     * @param key 键
++     * @return
++     */
++    public long lGetListSize(String key){
++        try {
++            return redisTemplate.opsForList().size(key);
++        } catch (Exception e) {
++            e.printStackTrace();
++            return 0;
++        }
++    }
++
++    /**
++     * 通过索引 获取list中的值
++     * @param key 键
++     * @param index 索引  index>=0时， 0 表头，1 第二个元素，依次类推；index<0时，-1，表尾，-2倒数第二个元素，依次类推
++     * @return
++     */
++    public Object lGetIndex(String key,long index){
++        try {
++            return redisTemplate.opsForList().index(key, index);
++        } catch (Exception e) {
++            e.printStackTrace();
++            return null;
++        }
++    }
++
++    /**
++     * 将list放入缓存
++     * @param key 键
++     * @param value 值
++     * @return
++     */
++    public boolean lSet(String key, Object value) {
++        try {
++            redisTemplate.opsForList().rightPush(key, value);
++            return true;
++        } catch (Exception e) {
++            e.printStackTrace();
++            return false;
++        }
++    }
++
++    /**
++     * 将list放入缓存
++     * @param key 键
++     * @param value 值
++     * @param time 时间(秒)
++     * @return
++     */
++    public boolean lSet(String key, Object value, long time) {
++        try {
++            redisTemplate.opsForList().rightPush(key, value);
++            if (time > 0) expire(key, time);
++            return true;
++        } catch (Exception e) {
++            e.printStackTrace();
++            return false;
++        }
++    }
++
++    /**
++     * 将list放入缓存
++     * @param key 键
++     * @param value 值
++     * @return
++     */
++    public boolean lSet(String key, List<Object> value) {
++        try {
++            redisTemplate.opsForList().rightPushAll(key, value);
++            return true;
++        } catch (Exception e) {
++            e.printStackTrace();
++            return false;
++        }
++    }
++
++    /**
++     * 将list放入缓存
++     * @param key 键
++     * @param value 值
++     * @param time 时间(秒)
++     * @return
++     */
++    public boolean lSet(String key, List<Object> value, long time) {
++        try {
++            redisTemplate.opsForList().rightPushAll(key, value);
++            if (time > 0) expire(key, time);
++            return true;
++        } catch (Exception e) {
++            e.printStackTrace();
++            return false;
++        }
++    }
++
++    /**
++     * 根据索引修改list中的某条数据
++     * @param key 键
++     * @param index 索引
++     * @param value 值
++     * @return
++     */
++    public boolean lUpdateIndex(String key, long index,Object value) {
++        try {
++            redisTemplate.opsForList().set(key, index, value);
++            return true;
++        } catch (Exception e) {
++            e.printStackTrace();
++            return false;
++        }
++    }
++
++    /**
++     * 移除N个值为value
++     * @param key 键
++     * @param count 移除多少个
++     * @param value 值
++     * @return 移除的个数
++     */
++    public long lRemove(String key,long count,Object value) {
++        try {
++            Long remove = redisTemplate.opsForList().remove(key, count, value);
++            return remove;
++        } catch (Exception e) {
++            e.printStackTrace();
++            return 0;
++        }
++    }
++
++}
+Index: src/main/java/com/example/springdemo/util/UserModel.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/com/example/springdemo/util/UserModel.java	(date 1543752734269)
++++ src/main/java/com/example/springdemo/util/UserModel.java	(date 1543752734269)
+@@ -0,0 +1,135 @@
++package com.example.springdemo.util;
++
++import com.example.springdemo.bean.User;
++
++import java.io.Serializable;
++
++// 实体类, po (dao),vo(service)
++public class UserModel implements Serializable{
++    //vo
++        private String Key;
++        private String id;
++        private String account;
++        private String pass;
++        private String name;
++        private String head;
++        private String phone;
++        private String email;
++        private String sex;
++        private String birthday;
++        private String register_time;
++        private String department_id;
++        private String salt;
++        public UserModel(){ }
++        public UserModel(User user){
++            this.setId(user.getId().toString());
++            this.setName(user.getName());
++            this.setPhone(user.getPhone());
++            this.setEmail(user.getEmail());
++            this.setSex(user.getSex()+"");
++        }
++        public String getPhone() {
++            return phone;
++        }
++
++        public void setPhone(String phone) {
++            this.phone = phone;
++        }
++
++        public String getEmail() {
++            return email;
++        }
++
++        public void setEmail(String email) {
++            this.email = email;
++        }
++
++        public String getSex() {
++            return sex;
++        }
++
++        public void setSex(String sex) {
++            this.sex = sex;
++        }
++
++        public String getBirthday() {
++            return birthday;
++        }
++
++        public void setBirthday(String birthday) {
++            this.birthday = birthday;
++        }
++
++        public String getRegister_time() {
++            return register_time;
++        }
++
++        public void setRegister_time(String register_time) {
++            this.register_time = register_time;
++        }
++
++        public String getDepartment_id() {
++            return department_id;
++        }
++
++        public void setDepartment_id(String department_id) {
++            this.department_id = department_id;
++        }
++
++        public String getSalt() {
++            return salt;
++        }
++
++        public void setSalt(String salt) {
++            this.salt = salt;
++        }
++
++        public String getId() {
++            return id;
++        }
++
++        public void setId(String id) {
++            this.id = id;
++        }
++
++        public String getAccount() {
++            return account;
++        }
++
++        public void setAccount(String account) {
++            this.account = account;
++        }
++
++        public String getPass() {
++            return pass;
++        }
++
++        public void setPass(String pass) {
++            this.pass = pass;
++        }
++
++        public String getName() {
++            return name;
++        }
++
++        public void setName(String name) {
++            this.name = name;
++        }
++
++        public String getHead() {
++            return head;
++        }
++
++        public void setHead(String head) {
++            this.head = head;
++        }
++        public String getKey() {
++            return Key;
++        }
++
++        public void setKey(String key) {
++            Key = key;
++        }
++
++
++}
+Index: src/main/java/com/example/springdemo/util/UserRedisServiceImpl.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/com/example/springdemo/util/UserRedisServiceImpl.java	(date 1543746945993)
++++ src/main/java/com/example/springdemo/util/UserRedisServiceImpl.java	(date 1543746945993)
+@@ -0,0 +1,14 @@
++package com.example.springdemo.util;
++
++import org.springframework.stereotype.Service;
++
++@Service("userRedisService")
++public class UserRedisServiceImpl extends RedisService<UserModel> {
++
++    public static final String KEY = "redis_user_model";
++    @Override
++    protected String getRedisKey() {
++        return KEY;
++    }
++
++}
+Index: src/main/java/com/example/springdemo/web/UserController.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/com/example/springdemo/web/UserController.java	(date 1543753427690)
++++ src/main/java/com/example/springdemo/web/UserController.java	(date 1543753427690)
+@@ -0,0 +1,59 @@
++package com.example.springdemo.web;
++
++
++import com.example.springdemo.bean.User;
++import com.example.springdemo.service.UserService;
++import com.example.springdemo.util.UserModel;
++import com.example.springdemo.util.UserRedisServiceImpl;
++import org.springframework.beans.factory.annotation.Autowired;
++import org.springframework.stereotype.Controller;
++import org.springframework.ui.Model;
++import org.springframework.web.bind.annotation.RequestBody;
++import org.springframework.web.bind.annotation.RequestMapping;
++import org.springframework.web.bind.annotation.RequestMethod;
++import org.springframework.web.bind.annotation.ResponseBody;
++
++import java.util.ArrayList;
++import java.util.List;
++
++@Controller
++public class UserController {
++    @Autowired
++    private UserService userService;
++    @Autowired
++    private UserRedisServiceImpl userRedisService;
++
++    @RequestMapping(value = "/list",method = RequestMethod.GET)
++    public String find(Model model){
++        List<User> list=userService.findAll();
++        model.addAttribute("list",list);
++        return "users/list";
++    }
++
++    @RequestMapping(value = "/redis",method = RequestMethod.GET)
++    public String redis_find(Model model){
++        List<UserModel> userList=new ArrayList<>();
++        long start=System.currentTimeMillis();
++        if (userRedisService.count()==0){
++            List<User> list=userService.findAll();
++            //po--->vo
++            if(list!=null &&list.size()>0){
++                for(User user:list){
++                    UserModel um=new UserModel(user);
++                    userList.add(um);
++                    //将po存入数据库
++                    userRedisService.put(um.getId(),um,-1);
++                }
++
++            }
++        }
++        //如果缓存有
++        else {
++           userList=userRedisService.getAll();
++        }
++        long end=System.currentTimeMillis();
++        System.out.println("用时"+(end-start)+"毫秒");
++        model.addAttribute("list",userList);
++        return "users/list";
++    }
++}
+Index: src/main/resources/mappers/UserDao.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/resources/mappers/UserDao.xml	(revision 5)
++++ src/main/resources/mappers/UserDao.xml	(date 1543741842319)
+@@ -1,115 +1,8 @@
+ <?xml version="1.0" encoding="UTF-8" ?>
+ <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+-<mapper namespace="com.dao.UserDao">
+-    <sql id="baseSql">
+-        <if test="example!=null">
+-            <where>
+-                <if test="example.id!=null and example.id.trim().length()>0">
+-                    and u.id like concat('%',#{example.id},'%')
+-                </if>
+-                <if test="example.account!=null and example.account.trim().length()>0">
+-                    and u.account like concat('%',#{example.account},'%')
+-                </if>
+-                <if test="example.pass!=null and example.pass.trim().length()>0">
+-                    and u.pass like concat('%',#{example.pass},'%')
+-                </if>
+-                <if test="example.name!=null and example.name.trim().length()>0">
+-                    and u.name like concat('%',#{example.name},'%')
+-                </if>
+-                <if test="example.head!=null and example.head.trim().length()>0">
+-                    and u.head like concat('%',#{example.head},'%')
+-                </if>
+-                <if test="example.phone!=null and example.phone.trim().length()>0">
+-                    and u.phone like concat('%',#{example.phone},'%')
+-                </if>
+-                <if test="example.email!=null and example.email.trim().length()>0">
+-                    and u.email like concat('%',#{example.email},'%')
+-                </if>
+-                <if test="example.sex!=null and example.sex.trim().length()>0">
+-                    and u.sex like concat('%',#{example.sex},'%')
+-                </if>
+-                <if test="example.birthday!=null and example.birthday.trim().length()>0">
+-                    and u.birthday like concat('%',#{example.birthday},'%')
+-                </if>
+-                <if test="example.register_time!=null and example.register_time.trim().length()>0">
+-                    and u.register_time like concat('%',#{example.register_time},'%')
+-                </if>
+-                <if test="example.department_id!=null and example.department_id.trim().length()>0">
+-                    and u.department_id like concat('%',#{example.department_id},'%')
+-                </if>
+-                <if test="example.salt!=null and example.salt.trim().length()>0">
+-                    and u.salt like concat('%',#{example.salt},'%')
+-                </if>
+-            </where>
+-        </if>
+-    </sql>
+-
+-    <select id="find" resultType="com.entity.User">
+-        select * from sys_user u
+-        <include refid="baseSql"/>
+-        order by id limit #{page},#{rows}
+-    </select>
+-    <select id="findAll" resultType="com.entity.User">
++<mapper namespace="com.example.springdemo.dao.UserDao">
++    <select id="findAll" resultType="User">
+          select * from sys_user
+     </select>
+-
+-    <select id="count" resultType="int" parameterType="com.entity.User">
+-        select count(*) from sys_user u
+-        <include refid="baseSql"/>
+-    </select>
+-
+-    <select id="findById" resultType="com.entity.User">
+-        select * from sys_user where id=#{id}
+-    </select>
+-
+-    <insert id="add">
+-        insert into sys_user(account,pass,name,head,phone,email,sex,birthday,register_time,department_id,salt)
+-        values (#{account},#{pass},#{name},#{head},#{phone},#{email},#{sex},#{birthday},#{register_time},#{department_id},#{salt})
+-    </insert>
+-    <update id="update">
+-        update sys_user
+-        <if test="example!=null">
+-            <set>
+-                <if test="example.account!=null and example.account!=''">
+-                    account=#{example.account},
+-                </if>
+-                <if test="example.pass!=null and example.pass!=''">
+-                    pass=#{example.pass},
+-                </if>
+-                <if test="example.name!=null and example.name!=''">
+-                    name=#{example.name},
+-                </if>
+-                <if test="example.head!=null and example.head!=''">
+-                    head=#{example.head},
+-                </if>
+-                <if test="example.phone!=null and example.phone!=''">
+-                    phone=#{example.phone},
+-                </if>
+-                <if test="example.email!=null and example.email!=''">
+-                    email=#{example.email},
+-                </if>
+-                <if test="example.sex!=null and example.sex!=''">
+-                    sex=#{example.sex},
+-                </if>
+-                <if test="example.birthday!=null and example.birthday!=''">
+-                    birthday=#{example.birthday},
+-                </if>
+-                <if test="example.register_time!=null and example.register_time!=''">
+-                    register_time=#{example.register_time},
+-                </if>
+-                <if test="example.department_id!=null and example.department_id!=''">
+-                    department_id=#{example.department_id},
+-                </if>
+-                <if test="example.salt!=null and example.salt!=''">
+-                    salt=#{example.salt},
+-                </if>
+-            </set>
+-        </if>
+-        where id=#{example.id}
+-    </update>
+-
+-    <delete id="delete">
+-        delete from sys_user where id=#{id}
+-    </delete>
+ </mapper>
+\ No newline at end of file
+Index: src/main/resources/static/list.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/resources/static/list.html	(date 1543741787606)
++++ src/main/resources/static/list.html	(date 1543741787606)
+@@ -0,0 +1,33 @@
++<!DOCTYPE html>
++<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
++<head>
++    <meta charset="UTF-8">
++    <title>用户列表</title>
++</head>
++<body>
++    <h2>用户列表</h2>
++    <table style="width: 1000px;margin: 0 auto;">
++        <tr>
++            <th>编号</th>
++            <th>姓名</th>
++            <th>电话</th>
++            <th>邮件</th>
++            <th>性别</th>
++        </tr>
++        <tbody th:unless="${#lists.isEmpty(list)}">
++            <tr th:each="user : ${list}">
++                <td th:text="${user.id}"></td>
++                <td th:text="${user.name}"></td>
++                <td th:text="${user.phone}"></td>
++                <td th:text="${user.email}"></td>
++                <td th:text="${user.sex}"></td>
++            </tr>
++        </tbody>
++        <tbody th:if="${#lists.isEmpty(list)}">
++        <tr>
++            <td colspan="5">没有数据</td>
++        </tr>
++        </tbody>
++    </table>
++</body>
++</html>
+\ No newline at end of file
+Index: src/main/resources/templates/users/list.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/resources/templates/users/list.html	(date 1543743301665)
++++ src/main/resources/templates/users/list.html	(date 1543743301665)
+@@ -0,0 +1,31 @@
++<!DOCTYPE html>
++<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
++<head>
++    <meta charset="UTF-8">
++    <title>用户列表</title>
++</head>
++<body>
++    <h2>用户列表</h2>
++    <table style="width: 1000px;margin: 0 auto">
++        <tr>
++            <th>编号</th>
++            <th>姓名</th>
++            <th>电话</th>
++            <th>邮件</th>
++            <th>性别</th>
++        </tr>
++        <tbody th:unless="${#lists.isEmpty(list)}">
++            <tr th:each="user:${list}">
++                <td th:text="${user.id}"></td>
++                <td th:text="${user.name}"></td>
++                <td th:text="${user.phone}"></td>
++                <td th:text="${user.email}"></td>
++                <td th:text="${user.sex}"></td>
++            </tr>
++        </tbody>
++        <tbody th:if="${#lists.isEmpty(list)}">
++            <tr>没有数据</tr>
++        </tbody>
++    </table>
++</body>
++</html>
+\ No newline at end of file
+Index: src/main/resources/application.yml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/resources/application.yml	(revision 5)
++++ src/main/resources/application.yml	(date 1543749726120)
+@@ -1,14 +1,19 @@
+ #默认配置,缩进来代表层次感
+ spring:
+-  profiles:
+-    active: dev
+-    datasource:
+-      url: jdbc:mysql://localhost:3306/zzpanel
+-      user: root
+-      password: 123
+-      driver-class-name: com.mysql.jdbc.Driver
+-      type: com.alibaba.druid.pool.DruidDataSource
++ profiles:
++   active: dev
++ datasource:
++   url: jdbc:mysql://localhost:3306/zzpanel?useTimezone=true&serverTimezone=GMT%2B8
++   username: root
++   password: 123
++   driver-class-name: com.mysql.cj.jdbc.Driver
++   type: com.alibaba.druid.pool.DruidDataSource
++ redis:
++   host: 127.0.0.1
++   port: 6379
+ 
+ mybatis:
+-  typeAliasPackage: com.example.bean
+-  mapperLocations: classpath:mappers/*.xml
++  type-aliases-package: com.example.springdemo.bean
++  mapper-locations: classpath:mappers/*.xml
++
++
+Index: pom.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- pom.xml	(revision 6)
++++ pom.xml	(date 1543745033319)
+@@ -33,6 +33,11 @@
+ 		</dependency>
+ 		<dependency>
+ 			<groupId>org.springframework.boot</groupId>
++			<artifactId>spring-boot-starter-data-redis</artifactId>
++			<version>2.0.4.RELEASE</version>
++		</dependency>
++		<dependency>
++			<groupId>org.springframework.boot</groupId>
+ 			<artifactId>spring-boot-starter-thymeleaf</artifactId>
+ 		</dependency>
+ 		<dependency>
+@@ -54,8 +59,9 @@
+ 		<dependency>
+ 			<groupId>com.alibaba</groupId>
+ 			<artifactId>druid</artifactId>
+-			<version>0.2.23</version>
++			<version>1.1.12</version>
+ 		</dependency>
++
+ 	</dependencies>
+ 
+ 	<build>
+Index: springdemo.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- springdemo.iml	(revision 6)
++++ springdemo.iml	(date 1543745892588)
+@@ -40,16 +40,32 @@
+     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-jdbc:2.1.1.RELEASE" level="project" />
+     <orderEntry type="library" name="Maven: com.zaxxer:HikariCP:3.2.0" level="project" />
+     <orderEntry type="library" name="Maven: org.springframework:spring-jdbc:5.1.3.RELEASE" level="project" />
+-    <orderEntry type="library" name="Maven: org.springframework:spring-tx:5.1.3.RELEASE" level="project" />
+     <orderEntry type="library" name="Maven: org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:1.3.2" level="project" />
+     <orderEntry type="library" name="Maven: org.mybatis:mybatis:3.4.6" level="project" />
+     <orderEntry type="library" name="Maven: org.mybatis:mybatis-spring:1.3.2" level="project" />
++    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-data-redis:2.0.4.RELEASE" level="project" />
++    <orderEntry type="library" name="Maven: org.springframework.data:spring-data-redis:2.1.3.RELEASE" level="project" />
++    <orderEntry type="library" name="Maven: org.springframework.data:spring-data-keyvalue:2.1.3.RELEASE" level="project" />
++    <orderEntry type="library" name="Maven: org.springframework.data:spring-data-commons:2.1.3.RELEASE" level="project" />
++    <orderEntry type="library" name="Maven: org.springframework:spring-tx:5.1.3.RELEASE" level="project" />
++    <orderEntry type="library" name="Maven: org.springframework:spring-oxm:5.1.3.RELEASE" level="project" />
++    <orderEntry type="library" name="Maven: org.springframework:spring-aop:5.1.3.RELEASE" level="project" />
++    <orderEntry type="library" name="Maven: org.springframework:spring-context-support:5.1.3.RELEASE" level="project" />
++    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.25" level="project" />
++    <orderEntry type="library" name="Maven: io.lettuce:lettuce-core:5.1.3.RELEASE" level="project" />
++    <orderEntry type="library" name="Maven: io.projectreactor:reactor-core:3.2.3.RELEASE" level="project" />
++    <orderEntry type="library" name="Maven: org.reactivestreams:reactive-streams:1.0.2" level="project" />
++    <orderEntry type="library" name="Maven: io.netty:netty-common:4.1.31.Final" level="project" />
++    <orderEntry type="library" name="Maven: io.netty:netty-transport:4.1.31.Final" level="project" />
++    <orderEntry type="library" name="Maven: io.netty:netty-buffer:4.1.31.Final" level="project" />
++    <orderEntry type="library" name="Maven: io.netty:netty-resolver:4.1.31.Final" level="project" />
++    <orderEntry type="library" name="Maven: io.netty:netty-handler:4.1.31.Final" level="project" />
++    <orderEntry type="library" name="Maven: io.netty:netty-codec:4.1.31.Final" level="project" />
+     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-thymeleaf:2.1.1.RELEASE" level="project" />
+     <orderEntry type="library" name="Maven: org.thymeleaf:thymeleaf-spring5:3.0.11.RELEASE" level="project" />
+     <orderEntry type="library" name="Maven: org.thymeleaf:thymeleaf:3.0.11.RELEASE" level="project" />
+     <orderEntry type="library" name="Maven: org.attoparser:attoparser:2.0.5.RELEASE" level="project" />
+     <orderEntry type="library" name="Maven: org.unbescape:unbescape:1.1.6.RELEASE" level="project" />
+-    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.25" level="project" />
+     <orderEntry type="library" name="Maven: org.thymeleaf.extras:thymeleaf-extras-java8time:3.0.2.RELEASE" level="project" />
+     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-web:2.1.1.RELEASE" level="project" />
+     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-json:2.1.1.RELEASE" level="project" />
+@@ -70,7 +86,6 @@
+     <orderEntry type="library" name="Maven: org.springframework:spring-web:5.1.3.RELEASE" level="project" />
+     <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.1.3.RELEASE" level="project" />
+     <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:5.1.3.RELEASE" level="project" />
+-    <orderEntry type="library" name="Maven: org.springframework:spring-aop:5.1.3.RELEASE" level="project" />
+     <orderEntry type="library" name="Maven: org.springframework:spring-context:5.1.3.RELEASE" level="project" />
+     <orderEntry type="library" name="Maven: org.springframework:spring-expression:5.1.3.RELEASE" level="project" />
+     <orderEntry type="library" scope="RUNTIME" name="Maven: mysql:mysql-connector-java:8.0.13" level="project" />
+@@ -95,6 +110,6 @@
+     <orderEntry type="library" name="Maven: org.springframework:spring-jcl:5.1.3.RELEASE" level="project" />
+     <orderEntry type="library" scope="TEST" name="Maven: org.springframework:spring-test:5.1.3.RELEASE" level="project" />
+     <orderEntry type="library" scope="TEST" name="Maven: org.xmlunit:xmlunit-core:2.6.2" level="project" />
+-    <orderEntry type="library" name="Maven: com.alibaba:druid:0.2.23" level="project" />
++    <orderEntry type="library" name="Maven: com.alibaba:druid:1.1.12" level="project" />
+   </component>
+ </module>
+\ No newline at end of file

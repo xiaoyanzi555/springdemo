@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>用户列表</title>
+</head>
+<body>
+    <h2>用户列表</h2>
+    <table style="width: 1000px;margin: 0 auto;">
+        <tr>
+            <th>编号</th>
+            <th>姓名</th>
+            <th>电话</th>
+            <th>邮件</th>
+            <th>性别</th>
+        </tr>
+        <tbody th:unless="${#lists.isEmpty(list)}">
+            <tr th:each="user : ${list}">
+                <td th:text="${user.id}"></td>
+                <td th:text="${user.name}"></td>
+                <td th:text="${user.phone}"></td>
+                <td th:text="${user.email}"></td>
+                <td th:text="${user.sex}"></td>
+            </tr>
+        </tbody>
+        <tbody th:if="${#lists.isEmpty(list)}">
+        <tr>
+            <td colspan="5">没有数据</td>
+        </tr>
+        </tbody>
+    </table>
+</body>
+</html>

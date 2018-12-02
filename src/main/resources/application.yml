@@ -1,0 +1,19 @@
+#默认配置,缩进来代表层次感
+spring:
+ profiles:
+   active: dev
+ datasource:
+   url: jdbc:mysql://localhost:3306/zzpanel?useTimezone=true&serverTimezone=GMT%2B8
+   username: root
+   password: 123
+   driver-class-name: com.mysql.cj.jdbc.Driver
+   type: com.alibaba.druid.pool.DruidDataSource
+ redis:
+   host: 127.0.0.1
+   port: 6379
+
+mybatis:
+  type-aliases-package: com.example.springdemo.bean
+  mapper-locations: classpath:mappers/*.xml
+
+
